@@ -347,7 +347,7 @@ baidu_analytics: 5a20491d9352a48ce0fb6ca0d371cc8e
 
 # Disqus
 disqus:
-  enable: true
+  enable: false
   shortname: thomasicey
   count: true
 
